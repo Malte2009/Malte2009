@@ -1,7 +1,7 @@
 
 # About me
 
-Hi there! I'm Malte, a 15 year old student from Germany.
+Hi there! I'm Malte, a 16 year old student from Germany.
 
 # Github Stats:
 
